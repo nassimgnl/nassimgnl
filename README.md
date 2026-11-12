@@ -7,8 +7,7 @@
 
 ### Finance Student | KEDGE Business School
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-174A55?style=flat-square&logo=linkedin&logoColor=white)]
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-174A55?style=flat-square&logo=github&logoColor=white)]
+[LinkedIn](https://www.linkedin.com/in/nassim-goundoul/) · [GitHub](https://github.com/nassimgnl)
 
 </div>
 
@@ -62,20 +61,7 @@ I am passionate about financial markets, investment strategies and the developme
 <img src="https://img.shields.io/badge/Multi--Asset%20Allocation-236B70?style=flat-square"/>
 <img src="https://img.shields.io/badge/Fund%20Selection-236B70?style=flat-square"/>
 <img src="https://img.shields.io/badge/Quantitative%20Analysis-236B70?style=flat-square"/>
-<img src="https://img.shields.io/badge/DCF%20Valuation-236B70?style=flat-square"/>
 </p>
-
-
-<div align="center">
-
-### LET'S CONNECT
-
-*Interested in Asset Management, Portfolio Management, Multi-Asset Strategies and Quantitative Finance.*
 
 Feel free to explore my projects and connect with me.
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/nassimgnl)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:102F3A,100:236B70&height=55&section=footer" width="100%" />
-
-</div>
