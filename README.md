@@ -25,22 +25,6 @@ I am passionate about financial markets, investment strategies and the developme
 
 ---
 
-## PROFESSIONAL EXPERIENCE
-
-### EOS Allocations
-**Multi-Asset & Fund Selection Analyst Intern**
-
-*Asset Management | Portfolio Analysis | Fund Research*
-
-- Conducting qualitative and quantitative analysis of equity and fixed-income funds.
-- Monitoring portfolio performance and conducting performance attribution analysis.
-- Analysing asset allocation, geographical exposure, sectors and investment styles.
-- Participating in fund due diligence and investment research.
-- Developing analytical and automation tools using Python and VBA.
-- Contributing to portfolio reporting and investment strategy monitoring.
-
----
-
 ## TECHNICAL SKILLS
 
 ### Programming & Data Analysis
@@ -62,6 +46,4 @@ I am passionate about financial markets, investment strategies and the developme
 <img src="https://img.shields.io/badge/Fund%20Selection-236B70?style=flat-square"/>
 <img src="https://img.shields.io/badge/Quantitative%20Analysis-236B70?style=flat-square"/>
 </p>
-
-Feel free to explore my projects and connect with me.
 
